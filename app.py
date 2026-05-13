@@ -15,6 +15,7 @@ st.set_page_config(
 # ── Title and description ────────────────────────────────────────
 st.title("🤖 Document Chatbot")
 st.caption("Ask anything about your document. Powered by RAG + OpenAI.")
+st.caption("Created by Oz-art")
 st.divider()
 
 # ── Initialize chat history ─────────────────────────────────────
